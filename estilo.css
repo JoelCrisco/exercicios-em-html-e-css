@@ -1,0 +1,68 @@
+/* Exercício 06*/
+#exer6{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/* Exercício 07*/
+#bodyExer07{
+    background-color: lightblue;
+}
+
+#h1Exer07 {
+    color: white;
+    text-align: center;
+}
+
+#pExer07{
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+
+/* Exercício 08*/
+
+#para1 {
+    text-align: center;
+    color: red;
+}
+
+/* Exercício 09*/
+
+#h1Exer09{
+    background-color: dodgerblue;
+}
+
+#pExer09 {
+    background-color: tomato;
+    text-align: start;
+}
+
+/* Exercício 10*/
+
+#bodyExer10 {
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/036/159/860/small/old-paper-texture-vintage-background-photo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/* Exercício 11*/
+
+#exer11 {
+    border: 1px solid #000000;
+    background-color: lightblue;
+    padding: 50px 30px 50px 80px;
+}
+
+
+/* Exercício 12*/
+
+#exer12{
+    border: 1px solid #000000;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;    
+    background-color: lightblue;
+}
